@@ -1,5 +1,7 @@
 # Hackintosh, macOS Sonoma 14.5, i9-14900KF, Z790 and RX 6900 XTX
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-Z790-AORUS-ELITE-DDR5-4X32GB-INTEL-i9-14900KF-RX-6900-XTX-PUBLIC/assets/23700365/ea137090-9acc-4919-ae7b-b1102646891a)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
